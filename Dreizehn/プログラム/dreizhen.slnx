@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Dreizehn.vcxproj" Id="a28338c0-bde6-420e-b35d-a9de4a323b65" />
+</Solution>
